@@ -116,11 +116,11 @@ The dashboard integrates and analyzes the following key dimensions:
    - April onward saw a significant rise, possibly due to seasonal demand or promotions
 
 ## Key Insights
-   - Revenue Growth: Total monthly revenue increased from $76K in February to $166K in June — a 118% growth, indicating strong customer engagement and effective sales strategies
-   - Top Products Drive Profit: Products like Barista Espresso, Brewed Chai Tea, and Hot Chocolate consistently ranked highest in sales, making them ideal candidates for seasonal promotions or bundle offers
-   - Morning is Prime Time: Over 55% of daily sales occur between 8 AM and 11 AM, suggesting this window should be targeted for promotions, loyalty stamps, or "coffee rush" deals
-   - Friday is the Busiest Day: Weekday sales outpace weekends, and Fridays consistently drive the highest revenue, possibly due to pre-weekend routines
-   - Consistent Store Growth: All three store locations showed strong, steady revenue increases. Hell’s Kitchen slightly outperformed the others, making it a strategic location for piloting new products or services
+   - **Revenue Growth**: Total monthly revenue increased from $76K in February to $166K in June — a 118% growth, indicating strong customer engagement and effective sales strategies
+   - **Top Products Drive Profit**: Products like Barista Espresso, Brewed Chai Tea, and Hot Chocolate consistently ranked highest in sales, making them ideal candidates for seasonal promotions or bundle offers
+   - **Morning is Prime Time**: Over 55% of daily sales occur between 8 AM and 11 AM, suggesting this window should be targeted for promotions, loyalty stamps, or "coffee rush" deals
+   - **Friday is the Busiest Day**: Weekday sales outpace weekends, and Fridays consistently drive the highest revenue, possibly due to pre-weekend routines
+   - **Consistent Store Growth**: All three store locations showed strong, steady revenue increases. Hell’s Kitchen slightly outperformed the others, making it a strategic location for piloting new products or services
 
 ## Business Recommendations
 

@@ -29,9 +29,16 @@ The objective of this project is to design and implement a comprehensive busines
 | `Dealer_Region` | Geographic region or location of the dealer    | Object        | `Middletown`                          |
 
 ## 📊 Key Analysis Areas
+
+- **Overview Analysis**
 <p align="center">
   <img src="Overview.PNG" width="1000px">
 </p>
+
+- **Details**
+ <p align="center">
+  <img src="Details.PNG" width="1000px">
+</p> 
 
 The dashboard analyzes the following key dimensions:
   - **Monitor Sales Performance at Scale**

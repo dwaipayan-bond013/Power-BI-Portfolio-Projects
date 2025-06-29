@@ -30,10 +30,14 @@ The objective of this project is to conduct an in-depth analysis of historical b
 
 The goal of this project is to design an interactive and insightful Power BI dashboard that analyzes ride-sharing data from the inDriver platform. This project aims to extract meaningful business intelligence from trip records, helping stakeholders optimize operational efficiency, enhance customer satisfaction, and support strategic growth decisions.
 
+## [Project 4: Car Sales Analysis](https://github.com/dwaipayan-bond013/Power-BI-Projects/tree/main/Car%20Sales)
+
+The Car Sales Power BI Analysis Project is a dynamic business intelligence solution designed to visualize and analyze year-to-date car sales performance across regions, brands, models, and dealers. It highlights key metrics like total revenue, units sold, and average price while uncovering customer preferences and sales trends. The dashboard empowers stakeholders to make data-driven decisions, optimize inventory, and improve dealership efficiency.
+
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at or connect with me on LinkedIn at.
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me on [dwaipayan.saha1997@gmail.com](dwaipayan.saha1997@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dwaipayan-s-9080a689/). You can contact me via email at or connect with me on LinkedIn at.
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 

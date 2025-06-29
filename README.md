@@ -18,15 +18,17 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 I am a passionate data enthusiast with a strong background in Power BI. I love transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. 
 
 ---
-## [Project 1: Sales Dashboard]
+## [Project 1: Coffee Sales Analysis](https://github.com/dwaipayan-bond013/Power-BI-Projects/tree/main/Coffee_shop_Sale_analysis)
 
-Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
+The primary objective of this project is to design a comprehensive and interactive Power BI dashboard that enables stakeholders of a coffee shop chain to gain actionable insights into sales performance, customer behavior, and operational efficiency.
 
-## [Project 2: Superstore Sales Dashboard with Streamlit]
+## [Project 2: Bank Loan Data Analysis](https://github.com/dwaipayan-bond013/Power-BI-Projects/tree/main/Loan%20Data%20Analysis)
 
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
+The objective of this project is to conduct an in-depth analysis of historical bank loan data to uncover trends, assess risk patterns, and support data-driven decision-making for credit and lending operations. The analysis focuses on customer demographics, loan characteristics, employment details, credit behavior, and repayment performance.
 
-## [Project 3: Human Resource Dashboard]
+## [Project 3: Indriver Ride Analysis](https://github.com/dwaipayan-bond013/Power-BI-Projects/tree/main/Indriver%20BI%20project)
+
+The goal of this project is to design an interactive and insightful Power BI dashboard that analyzes ride-sharing data from the inDriver platform. This project aims to extract meaningful business intelligence from trip records, helping stakeholders optimize operational efficiency, enhance customer satisfaction, and support strategic growth decisions.
 
 
 ## Contact Information

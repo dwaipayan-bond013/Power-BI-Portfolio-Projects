@@ -1,5 +1,7 @@
 # ☕ Coffee Shop Sales Analysis
-
+<p align="center">
+  <img src="Poster.PNG" width="1000px">
+</p>
 
 ## 📊 Overview
 
@@ -23,10 +25,6 @@ The dashboard tells the story behind every order — helping uncover which produ
 | `product_detail`   | Detailed name or description of the product               | String        | `Ethiopia Rg`           |
 
 ## 📊 Key Analysis Areas
-
-<p align="center">
-  <img src="June.PNG" width="1000px">
-</p>
 
 The dashboard integrates and analyzes the following key dimensions:
   - **Sales Trends**

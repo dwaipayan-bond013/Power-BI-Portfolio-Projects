@@ -31,7 +31,7 @@ Superstore Sales with Streamlit is a data visualization and analysis project tha
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at.
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at or connect with me on LinkedIn at.
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 

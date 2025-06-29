@@ -1,7 +1,5 @@
 # ☕ Coffee Shop Sales Analysis
-<p align="center">
-  <img src="Poster.PNG" width="1000px">
-</p>
+
 
 ## 📊 Overview
 

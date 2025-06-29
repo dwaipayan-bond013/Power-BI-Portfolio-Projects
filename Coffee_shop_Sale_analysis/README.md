@@ -29,7 +29,7 @@ The dashboard tells the story behind every order — helping uncover which produ
   <img src="June.PNG" width="1000px">
 </p>
 
-The dashboard integrates and analyzes the following key dimensions:
+The dashboard analyzes the following key dimensions:
   - **Sales Trends**
     - Monthly analysis of Total Revenue, Order Count, and Quantity Sold
     - Weekly Growth Tracking evry month
@@ -50,7 +50,7 @@ The dashboard integrates and analyzes the following key dimensions:
    - Growth trajectory by location over the six-month period
    - Assessment of performance consistency across outlets
 
-## 📈 Insights and Recommendations
+## 📈 Business Insights 
 
  1. Sales Performance Overview (Jan–Jun 2023)
     
@@ -135,7 +135,7 @@ The dashboard integrates and analyzes the following key dimensions:
    - Invest in inventory and visibility of Coffee, Tea, and Bakery sections
    - Introduce new seasonal flavors or limited-time beverages from items which are sold less
 
-### 📌 Conclusion
+## 📌 Conclusion
 
 The Coffee Shop Sales Analysis from January to June 2023 shows a strong upward trend, with sales increasing by over 118% from ₹76K in February to ₹166K in June. The most active sales hours are between 8–11 AM, and Fridays and Saturdays consistently drive the highest revenue. Hell’s Kitchen emerged as the top-performing store, while coffee remained the best-selling product category, led by items like Barista Espresso and Brewed Chai Tea. Steady month-over-month growth suggests successful marketing and customer engagement strategies. Targeting high-demand time slots, optimizing store operations, and leveraging popular products for promotions could further boost revenue.
 

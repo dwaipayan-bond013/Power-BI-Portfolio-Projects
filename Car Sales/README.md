@@ -52,7 +52,7 @@ The dashboard analyzes the following key dimensions:
   - Enhance Profitability & Efficiency
      - Use the insights to optimize pricing strategies, reduce slow-moving inventory, and improve sales conversion by focusing efforts on high-margin products and top-selling dealers
 
-## 📈 Insights and Recommendations
+## 📈 Business Insights 
 
  1.  KPI Summary
 
@@ -68,6 +68,39 @@ The dashboard analyzes the following key dimensions:
      - Consistent weekly growth with a peak at week 35 (~$14.9M)
      - Likely a successful seasonal campaign (e.g., summer sales or new model release)
 
-  3. YTD Sales by Body Style (Donut Chart)
-     - SUVs and Sedans are dominant styles and Hatchbacks, Passenger, Hardtop are smaller segments
-     - Customer preference leans toward SUVs and Sedans. These segments should continue to be the product focus
+  3. Customer Behavior & Product Insights
+     - SUVs and Sedans dominate the market share, aligning with broader industry trends that favor versatility, safety, and space
+     - Pale White and Black are the most purchased colors, reflecting a preference for resale-friendly, conservative choices. Less demand for bold colors like Red confirms a general shift toward functionality over flair
+     These patterns help in forecasting demand, streamlining inventory, and designing targeted marketing campaigns that match actual customer buying behavior.
+
+  4. Geographic & Dealer Performance Analysis
+     -  Cities like Austin, Greenville, and Janesville consistently outperform, likely due to strong dealer presence, local demand, or brand trust
+     -  Other regions (e.g., Pasco, Aurora, Scottsdale) show subdued performance, signaling operational bottlenecks, poor customer engagement, or limited product variety
+       
+  5. Company-wise Sales Trend
+      | Company                              | YTD Avg Price    | YTD Units Sold | YTD Sales | % of Total |
+      | ------------------------------------ | ---------------- | -------------- | --------- | ---------- |
+      | **Volkswagen**                       | \$25,396         | 718            | \$1.82M   | 4.91%      |
+      | **Toyota**                           | \$29,515         | 593            | \$1.75M   | 4.72%      |
+      | **Volvo**                            | \$27,913         | 458            | \$1.27M   | 3.44%      |
+
+     - Volkswagen, Toyota, and Volvo lead in both units sold and YTD revenue
+     - Luxury brands such as Porsche, Saab, and Cadillac, while lower in volume, still present margin-boosting opportunities
+
+## Key Insights
+  - The business recorded a total YTD sales value of $371M, up $70.8M (+23.59%) from the previous period
+  - 13,000+ units sold, an increase of 24.57%, while the average selling price dipped slightly to $28K (-0.79%)
+  - This implies that growth is driven primarily by volume, not price — indicating strong demand for mid-range or economy vehicles
+  - Regional and brand-level analysis uncovers critical insights into demand concentration and customer preferences
+
+## Business Recommendations
+| Area                     | Recommendation                                                                                                   |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| **Sales Strategy**       | Expand in SUV/Sedan categories. Leverage high-performing months (week 35) for seasonal promotions                |
+| **Inventory Planning**   | Stock neutral-colored vehicles (White, Black). Shift underperforming stock via discounts                         |
+| **Regional Performance** | Focus on top-performing regions (Austin, Greenville) for investment. Audit underperforming dealers               |
+| **Brand Management**     | Push high-margin premium brands through curated marketing. Maintain volume leaders with offers                   |
+| **Pricing Strategy**     | Monitor price sensitivity — average price dropped slightly, but units sold increased. Balance margin vs. volume  |
+| **Customer Insights**    | Segment buyers based on body style and color preferences for targeted ads and campaigns                          |
+
+## 📌 Conclusion

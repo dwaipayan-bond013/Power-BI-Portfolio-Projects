@@ -111,3 +111,4 @@ The dashboard analyzes the following key dimensions:
 | **Customer Insights**    | Segment buyers based on body style and color preferences for targeted ads and campaigns                          |
 
 ## 📌 Conclusion
+The Car Sales Power BI Analysis Project successfully delivers a powerful and interactive business intelligence solution that transforms raw car sales data into actionable insights. By consolidating year-to-date (YTD) sales performance metrics into an intuitive dashboard, the project equips stakeholders with a real-time, data-driven understanding of how the business is performing across various dimensions—product types, regions, brands, customer behavior, and dealerships.

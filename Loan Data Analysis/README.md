@@ -3,7 +3,7 @@
   <img src="Poster.jpg" width="900px">
 </p>
 
-## 📊 Overview
+## 📊 Project Overview
 This loan analysis project provides a comprehensive review of loan application trends, funding distribution, borrower profiles, and repayment performance. With over 38.6K applications and $435.8M in funded loans, the report highlights a strong 13% month-over-month growth in disbursement. Key metrics such as interest rates (12.05%) and DTI (13.33%) were evaluated alongside borrower characteristics like employment length and home ownership. Most loans were taken for debt consolidation, while 60-month terms were the most popular. The analysis also compares good vs. bad loans, revealing an 86.2% repayment success rate. Insights from this data support better risk management, customer targeting, and strategic loan offerings.
 
 ## Dataset Used

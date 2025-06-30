@@ -37,9 +37,9 @@ The analysis is performed on a single table with the following columns:
 | `total_acc`             | Total number of credit accounts                              |
 | `total_payment`         | Total amount paid towards the loan                           |
 
-## 📊 Key Analysis Areas
+## 📊 Key Analysis Areas<br>
 
-- Overall Analysis
+**Overall Analysis**
   <p align="center">
     <img src="OverallAnalysis.PNG" width="1000px">
   </p>
@@ -117,9 +117,9 @@ The analysis is performed on a single table with the following columns:
    - Launch campaigns for business, home improvement loans
    - Launch low-cost digital acquisition strategies in underperforming states
    - Partner with regional influencers or local banks to improve footprint
-   - Design offers around peak borrowing months (e.g., Q4)
+   - Design offers around peak borrowing months (e.g., Q4)<br>
 
-- Analytical Summary
+**Analytical Summary**
   <p align="center">
     <img src="Summary.PNG" width="1000px">
   </p>

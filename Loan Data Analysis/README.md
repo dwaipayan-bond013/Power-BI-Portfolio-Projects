@@ -150,6 +150,7 @@ The analysis is performed on a single table with the following columns:
   <p align="center">
     <img src="Details.PNG" width="1000px">
   </p>
+  
    - Loan Growth is Strong: With 38.6K applications and a 13% MoM increase in funding, the bank is seeing steady growth in both demand and disbursement
    - High Loan Performance: 86.2% of loans are performing well, indicating effective credit policies and borrower reliability
    - Risk Linked to High DTI & Interest Rates: Charged-off loans show higher interest (13.88%) and DTI (14%), signaling a clear link between these factors and default risk

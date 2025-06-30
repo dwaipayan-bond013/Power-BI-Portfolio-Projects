@@ -108,7 +108,68 @@ The analysis is performed on a single table with the following columns:
    - Followed by Renters ($0.1B) and Owners ($0.03B)
    - Indicates lenders are more confident funding those with secured assets (mortgages)
 
+## Business Recommendation
+
+   - Assign dynamic interest rates based on borrower profile instead of flat bands
+   - Monitor “Current” loans with >14% DTI and >15% interest — they are high-risk
+   - Auto-generate intervention alerts, offer restructuring early
+   - Offer starter loans to <2-year employees with financial education support. Building long-term relationships with first-time borrowers might reduce the churn
+   - Launch campaigns for business, home improvement loans
+   - Launch low-cost digital acquisition strategies in underperforming states
+   - Partner with regional influencers or local banks to improve footprint
+   - Design offers around peak borrowing months (e.g., Q4)
+
 - Analytical Summary
   <p align="center">
     <img src="Summary.PNG" width="1000px">
   </p>
+  
+1. Good Loans Dominate the Portfolio
+   - 86.2% of all loans are categorized as “Good”, meaning they were either fully paid or currently in good standing
+   - These 33.2K loans had a funded amount of $370.2M, and impressively, the bank recovered the full $435.8M (including interest)
+   - Most of our borrowers are reliable—this builds a strong foundation for future expansion
+
+2. Bad Loans Aare low in number but significant
+   - 13.8% of loans (5.3K) were charged off, meaning the bank was unable to recover the full amount
+   - While $65.5M was funded, only $37.3M was recovered—an approximate 43% loss
+   - One in seven loans are turning bad, need to tighten screening process and risk models
+
+3. Loan Status Breakdown Reveals Key Trends
+   
+    | Status          | Funded Amount | Received Amount | Avg. Interest | Avg. DTI |
+    | --------------- | ------------- | --------------- | ------------- | -------- |
+    | **Fully Paid**  | \$351.36M     | \$411.58M       | **11.64%**    | 13.17%   |
+    | **Charged Off** | \$65.53M      | \$37.28M        | **13.88%**    | 14.00%   |
+    | **Current**     | \$18.87M      | \$24.19M        | **15.10%**    | 14.72%   |
+
+   - Higher interest and DTI are clearly linked to default risk
+   - Loans with lower interest and DTI (like fully paid ones) perform significantly better
+   - When the risk goes up when interest is pushed and lend to customers with high DTI ratios
+
+## Key Insights
+  <p align="center">
+    <img src="Details.PNG" width="1000px">
+  </p>
+   - Loan Growth is Strong: With 38.6K applications and a 13% MoM increase in funding, the bank is seeing steady growth in both demand and disbursement
+   - High Loan Performance: 86.2% of loans are performing well, indicating effective credit policies and borrower reliability
+   - Risk Linked to High DTI & Interest Rates: Charged-off loans show higher interest (13.88%) and DTI (14%), signaling a clear link between these factors and default risk
+   - Debt Consolidation Dominates: Over 50% of the total funded amount is for debt consolidation, suggesting financial stress among borrowers
+   - Long-Term & Mortgage-Backed Borrowers Preferred: Most funding goes to 60-month loans and mortgage holders, showing a focus on lower-risk, asset-backed lending
+
+## Business Recommendation
+
+   - Expand offerings for borrowers with lower DTI and stable income—they consistently repay well
+   - Use incentives like lower interest rates or loyalty bonuses to attract more of this group
+   - Set stricter thresholds on DTI (e.g., <13.5%) and cap interest rates for first-time or unknown borrowers
+   - Analyze why these 5.3K loans failed—are they tied to certain regions, purposes, or professions
+   - Build early-warning systems based on interest, DTI, and behavior patterns to intervene before charge-off
+   - With consistent MoM growth, leverage marketing campaigns and special offers in high-performing months
+   - Since many are consolidating debt, offer debt management tools, personal finance coaching, or budgeting apps as value-added services.Build trust and increase repayment rates long-term
+
+## 📌 Conclusion
+
+The loan analysis reveals a strong and growing loan portfolio, with 38.6K applications and a 13% month-over-month increase in funding, indicating rising borrower demand and effective disbursement strategies. A significant 86.2% of loans are performing well, showing that the bank has a stable and reliable customer base. However, the 13.8% of charged-off loans, often linked to higher interest rates and DTI ratios, highlight areas of potential risk that need attention.
+
+The analysis also shows that debt consolidation is the leading loan purpose, suggesting that many borrowers are focused on managing existing financial burdens rather than taking loans for investment or asset-building. Borrowers with long employment history and mortgage backing received the highest funding, indicating the bank’s preference for low-risk, stable profiles. Lastly, the preference for longer-term loans (60 months) points to borrowers’ desire for manageable monthly repayments, but this may also increase the long-term credit risk if not closely monitored.
+
+In summary, while the bank is in a strong position with high recovery and repayment rates, strategic focus on risk mitigation, borrower education, and product diversification will be essential for sustainable growth.

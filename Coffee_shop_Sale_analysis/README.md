@@ -10,6 +10,8 @@ The dashboard tells the story behind every order — helping uncover which produ
 
 ## Dataset used
 
+The analysis is performed on a single table with the following columns:
+
 | **Column Name**    | **Description**                                           | **Data Type** | **Example Value**       |
 | ------------------ | --------------------------------------------------------- | ------------- | ----------------------- |
 | `transaction_id`   | Unique identifier for each transaction                    | Integer       | `1`                     |

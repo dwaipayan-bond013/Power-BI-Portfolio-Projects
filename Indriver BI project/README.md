@@ -10,6 +10,10 @@ This project analyzes monthly ride data from inDrive using an interactive Power 
 
 The analysis is performed on a single tables and columns with the following columns
 
+<p align="center">
+       <img src="Details.PNG" width="1000px">
+</p>
+
 - Trip Details Table
 
 | Column Name       | Description                                                           |
@@ -124,24 +128,47 @@ The analysis is performed on a single tables and columns with the following colu
     </p>
 
    1. **Total Distance by Pickup Time**
-        - The total distance covered by trips follows a similar pattern to the trip count graph, with peaks occurring in the early morning (around 6 AM - 9 AM) and late afternoon to evening (from 5 PM - 7 PM)
-        - The midnight to 6 AM hours show a steep decline in total distance, confirming lower demand during late-night hours
+        - The total distance covered by trips follows a similar pattern to the trip count graph, with peaks occurring in the early morning **(around 6 AM - 9 AM)** and late afternoon to evening **(from 5 PM - 7 PM)**
+        - The midnight to **6 AM hours** show a steep decline in total distance, confirming lower demand during late-night hours
         - The morning and evening rush hours are driving significant distances. Maximizing vehicle availability during these times will capture higher volumes of trips and greater distances. Fleet expansion or repositioning strategies should focus on high-traffic locations during these peak hours
         - With low distance during late-night hours, consider discounting rides or offering incentives for longer trips during these times to help balance fleet use.
 
    2. **Total Distance by Day of the Week**
-        - The total distance is highest on Saturday and Sunday, each reaching 62K miles. On weekdays, Tuesday and Wednesday are the most active, while Friday and Monday show lower distance coverage
-        - The weekend (Saturday and Sunday) consistently drives the highest total distance. This suggests more people are traveling longer distances for leisure or social purposes. Businesses can target weekend commuters or promote long-distance rides with offers to increase utilization
-        - Monday and Friday show less demand. Introducing weekday promotions could incentivize customers to use the service more frequently on these slower days
+        - The total distance is highest on **Saturday and Sunday**, each reaching **62K miles**. On weekdays, **Tuesday and Wednesday** are the most active, while **Friday and Monday** show lower distance coverage
+        - The weekend **(Saturday and Sunday)** consistently drives the highest total distance. This suggests more people are traveling longer distances for leisure or social purposes. Businesses can target weekend commuters or promote long-distance rides with offers to increase utilization
+        - **Monday and Friday** show less demand. Introducing weekday promotions could incentivize customers to use the service more frequently on these slower days
 
    3. **Total Distance by Hour and Day (Heatmap)**
-        - The heatmap reflects that weekend evenings (Saturday and Sunday) are generating the highest total distances, particularly from 5 PM to 9 PM. These peaks align with the evening rush hour and longer trips taken over weekends
-        - Early mornings (from midnight to 6 AM) show low total distance, which corresponds with the off-peak time
+        - The heatmap reflects that weekend evenings **(Saturday and Sunday)** are generating the highest total distances, particularly from **5 PM to 9 PM**. These peaks align with the evening rush hour and longer trips taken over weekends
+        - Early mornings **(from midnight to 6 AM)** show low total distance, which corresponds with the off-peak time
         - The weekend evening hours show significant long-distance trips. This presents an opportunity for dynamic pricing or promotions during these hours to capitalize on the high demand
-        - The graph shows that midday (10 AM to 3 PM) also has a moderate level of total distance. Consider midday discounts or services aimed at leisure travelers, tourists, or business-related trips.
+        - The graph shows that midday **(10 AM to 3 PM)** also has a moderate level of total distance. Consider midday discounts or services aimed at leisure travelers, tourists, or business-related trips.
 
    4. **Distance Optimization Strategies**
         - Fleet Positioning: Based on the peak hours and weekend trends, the fleet should be positioned strategically in areas that are likely to generate high-mileage trips, particularly during evenings and weekends
-        - Promotions for Longer Trips: Since weekends and evening hours see longer trips, businesses could offer special promotions like long-distance travel discounts or group rides to attract more riders during these times.
+        - Promotions for Longer Trips: Since weekends and evening hours see longer trips, businesses could offer special promotions like long-distance travel discounts or group rides to attract more riders during these times
 
+## Key Insights
+   - The highest number of trips and total booking values occur during morning **(9-11 AM)** and evening **(5-7 PM)** rush hours, highlighting peak demand times
+   - **Saturday** and **Sunday** consistently generate the highest total trips and booking values, indicating higher demand for rides during weekends, likely due to leisure and social activities
+   - **Monday** and **Friday** show lower trip volumes and total distance, suggesting a need for targeted promotions to boost demand during these days
+   - Late-night hours **(12 AM - 6 AM)** exhibit lower demand and total distance, presenting an opportunity to incentivize rides during these off-peak periods through discounts or special offers
+   - Long-distance trips, particularly during weekend evenings, contribute significantly to total distance and booking value, offering potential for dynamic pricing or promotional packages for such trips
+   - Fleet availability should be prioritized during peak hours (morning and evening rush) and in high-demand areas (such as **Penn Station and Madison Square West**) to ensure high service levels
+   - Moderate activity occurs between **10 AM - 3 PM**, with steady trip volume and total distance. Targeted promotions or discounts for tourists or business professionals during these hours can help boost usage
+   - The majority of transactions are through **Payapp (67%)**, indicating a strong preference for digital payments. Promoting further use of digital payment methods like Amazon Pay and Google Pay could help reduce cash-based transactions
 
+## Business Recommendation
+   - Ensure high availability of vehicles during morning **(9-11 AM)** and evening **(5-7 PM)** rush hours when demand for trips and booking values are highest. This can be done by re-positioning vehicles to key pickup areas in advance
+   - Since **Saturday and Sunday** generate the highest booking values, consider offering weekend-specific promotions, such as discounted rides, loyalty bonuses, or group offers to attract more customers
+   - For days like **Monday and Friday**, which show lower demand, introduce weekday promotions or business partnerships to encourage more bookings, such as special offers for commuters or corporate clients
+   - Offer discounts or rewards for rides taken during late-night hours **(12 AM - 6 AM)**, which currently show low activity. This could help balance fleet utilization and provide drivers with more opportunities during off-peak times
+   - As weekend evenings are generating longer trips, consider introducing special long-distance packages or premium pricing for long-distance trips to capitalize on the higher revenue potential of these rides
+   - Implement dynamic pricing during peak hours (rush hours and weekends) to adjust prices based on demand, ensuring optimal vehicle availability and higher revenue generation during high-demand periods
+   - Since midday hours **(10 AM - 3 PM)** show moderate activity, consider targeting tourists or business professionals with midday discounts, group deals, or corporate packages to increase trip volume during this time
+   - With PayZapp dominating as the primary payment method, explore incentives or rewards for customers who use other payment methods like Amazon Pay and Google Pay to promote cashless transactions, streamline operations, and enhance customer experience
+   - Ensure the fleet is strategically distributed in high-demand areas such as **Penn Station and Madison Square West**, as these locations see frequent pickups and drop-offs. This will improve ride availability and reduce customer wait times
+   - Consider introducing premium or express services during peak hours (morning and evening) to cater to customers seeking faster, more comfortable rides. This could be marketed as a higher-tier service for an additional charge, increasing overall booking values
+
+## 📌 Conclusion
+The Indriver Trip Analysis Power BI project provides a comprehensive overview of key metrics related to trips, distance, booking value, and customer behavior. The analysis reveals clear patterns in trip demand, with peak periods during morning and evening rush hours, and weekends driving the highest booking values and distances. It also highlights opportunities to boost performance during weekday lows and late-night hours through targeted promotions. Fleet optimization, dynamic pricing, and strategic placement in high-demand areas can significantly enhance operational efficiency. The insights also point to increased digital payment adoption and long-distance trip promotions as key drivers for higher revenue. Overall, the findings provide actionable strategies to improve customer satisfaction, maximize vehicle usage, and increase profitability.

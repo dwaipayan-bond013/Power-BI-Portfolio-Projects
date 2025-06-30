@@ -70,18 +70,45 @@ The analysis is performed on a single table with the following columns:
    - Customers prefer longer terms, possibly due to lower monthly payments
 
 6. Funded Amount by Employment Length
+    | Employment Length | Funded Amount |
+    | ----------------- | ------------- |
+    | 10+ years         | \$116M        |
+    | <2 years          | \$45M         |
+    | 6 years           | \$26M         |
+
    - Employees with 10+ years of service left received the highest funding ($116M)
    - Consistent funding across 2-5 year employment ranges, all around $33M to $45M
    - 6-year tenure had the lowest funding at $26M.
    ***(Suggests trust in stable employment history for loan approval)***
 
-7. Loan Purpose
+8. Loan Purpose
+
+    | Purpose            | Funded Amount |
+    | ------------------ | ------------- |
+    | Debt Consolidation | \$0.23B       |
+    | Credit Card        | \$0.06B       |
+    | Home Improvement   | \$0.03B       |
+    | Small Business     | \$0.02B       |
+    | Wedding            | \$0.01B       |
+
    - Debt Consolidation leads with $0.23B (53%) of funding
    - Followed by Credit Card ($0.06B), Home Improvement ($0.03B)
    - Lowest: Wedding, Car, Major Purchase
    - Borrowers are largely seeking to manage or refinance existing debt, indicating economic caution
 
-8. Home Ownership Status
+9. Home Ownership Status
+    | Home Ownership | Funded Amount |
+    | -------------- | ------------- |
+    | Mortgage       | \$0.22B       |
+    | Rent           | \$0.10B       |
+    | Own            | \$0.03B       |
+    | Other/None     | Minimal       |
+
    - Mortgage holders dominate the funded amount with $0.22B
    - Followed by Renters ($0.1B) and Owners ($0.03B)
-   - Indicates lenders are more confident funding those with secured assets (mortgages).
+   - Indicates lenders are more confident funding those with secured assets (mortgages)
+
+- Analytical Summary
+  <p align="center">
+    <img src="Summary.PNG" width="1000px">
+  </p>

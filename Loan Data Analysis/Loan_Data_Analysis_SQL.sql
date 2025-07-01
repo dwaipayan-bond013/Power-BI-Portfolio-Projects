@@ -1,6 +1,6 @@
 use [Loan Analysis];
 
-SELECT * FROM loan;
+SELECT * FROM loan
 
 -- Indexing frequently used columns
 

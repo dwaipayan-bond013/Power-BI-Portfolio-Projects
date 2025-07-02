@@ -3,7 +3,9 @@
   <img src="Poster_final.png" width="1000px">
 </p>
 
-## 📊 Project Overview
+## 📊 Business Problem
+Indriver, a ride-hailing service, is facing challenges in optimizing its fleet operations, increasing booking values, and improving customer satisfaction due to fluctuating demand across different times of the day and week. The company struggles to balance vehicle availability during peak periods, low demand hours, and weekdays, leading to inefficient fleet utilization, limited promotion strategies during off-peak times and long-distance trips and suboptimal revenue generation.
+
 This project analyzes monthly ride data from inDrive using an interactive Power BI dashboard. It tracks key metrics such as total trips, revenue, distance traveled, average fare, and trip time. The dashboard also breaks down performance by vehicle type, payment method, and popular pickup/drop-off locations. Daily trip patterns help identify peak demand days for better resource planning. User behavior insights support optimization of fleet allocation and pricing strategies. This analysis empowers inDrive to make data-driven decisions that improve efficiency and customer satisfaction. The insights serve as a foundation for scaling operations and enhancing the rider experience.
 
 ## Dataset Used

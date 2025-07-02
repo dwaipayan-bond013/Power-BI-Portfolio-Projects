@@ -48,28 +48,28 @@ The analysis is performed on a single table with the following columns:
   </p>
 
 1. Loan Applications & Funding Overview
-   - Total Loan Applications: 38.6K
-   - Month-over-Month (MoM) Growth: 6.9% (Healthy growth in demand for loans)
-   - Total Funded Amount: $435.8M
-   - MoM Growth: $54M (13%) – Significant increase in funding.
-   - Total Amount Received: $473.1M
-   - MoM Growth: $58.1M (15.8%) – Indicates strong loan recovery or revenue from funded loans.
+   - Total Loan Applications: **38.6K**
+   - Month-over-Month (MoM) Growth: **6.9%** (Healthy growth in demand for loans)
+   - Total Funded Amount: **$435.8M**
+   - MoM Growth: **$54M (13%)** – Significant increase in funding.
+   - Total Amount Received: **$473.1M**
+   - MoM Growth: **$58.1M (15.8%)** – Indicates strong loan recovery or revenue from funded loans.
 
 2. Interest Rate & DTI
-   - Average Interest Rate: 12.05% (MoM increase of 3.5%)
-   - Average DTI (Debt-to-Income): 13.33% (MoM change 2.7%)
+   - Average Interest Rate: **12.05%** (MoM increase of **3.5%**)
+   - Average DTI (Debt-to-Income): **13.33%** (MoM change **2.7%**)
    - Slight increases but within manageable limits; needs monitoring if they continue upward.
 
 3. Funding Trend Over the Year
-   - Funded amount rose steadily from $25M in Jan/Feb to $54M in Dec. This shows consistent growth in lending activity, indicating improving trust or increased borrower needs
+   - Funded amount rose steadily from **$25M** in **Jan/Feb** to **$54M** in **Dec**. This shows consistent growth in lending activity, indicating improving trust or increased borrower needs
 
 4. Funded Amount by State
    - Regional variation is visible, with higher funding in Eastern and Western states
    - Central states (e.g., North Dakota, South Dakota) show lower activity, suggesting either lower demand or stricter lending criteria
 
 5. Loan Term Preference
-   - 60-month loans account for 62.66% ($273M) of funding
-   - 36-month loans contribute only 37.34% ($163M)
+   - 60-month loans account for **62.66%** (**$273M**) of funding
+   - 36-month loans contribute only **37.34%** (**$163M**)
    - Customers prefer longer terms, possibly due to lower monthly payments
 
 6. Funded Amount by Employment Length
@@ -79,9 +79,9 @@ The analysis is performed on a single table with the following columns:
     | <2 years          | \$45M         |
     | 6 years           | \$26M         |
 
-   - Employees with 10+ years of service left received the highest funding ($116M)
-   - Consistent funding across 2-5 year employment ranges, all around $33M to $45M
-   - 6-year tenure had the lowest funding at $26M.
+   - Employees with **10+** years of service left received the highest funding (**$116M**)
+   - Consistent funding across **2-5 year** employment ranges, all around **$33M to $45M**
+   - **6-year** tenure had the lowest funding at $26M.
    ***(Suggests trust in stable employment history for loan approval)***
 
 8. Loan Purpose
@@ -94,8 +94,8 @@ The analysis is performed on a single table with the following columns:
     | Small Business     | \$0.02B       |
     | Wedding            | \$0.01B       |
 
-   - Debt Consolidation leads with $0.23B (53%) of funding
-   - Followed by Credit Card ($0.06B), Home Improvement ($0.03B)
+   - Debt Consolidation leads with **$0.23B (53%)** of funding
+   - Followed by Credit Card (**$0.06B**), Home Improvement (**$0.03B**)
    - Lowest: Wedding, Car, Major Purchase
    - Borrowers are largely seeking to manage or refinance existing debt, indicating economic caution
 
@@ -107,14 +107,14 @@ The analysis is performed on a single table with the following columns:
     | Own            | \$0.03B       |
     | Other/None     | Minimal       |
 
-   - Mortgage holders dominate the funded amount with $0.22B
-   - Followed by Renters ($0.1B) and Owners ($0.03B)
+   - Mortgage holders dominate the funded amount with **$0.22B**
+   - Followed by Renters (**$0.1B**) and Owners (**$0.03B**)
    - Indicates lenders are more confident funding those with secured assets (mortgages)
 
 ## Business Recommendation
 
    - Assign dynamic interest rates based on borrower profile instead of flat bands
-   - Monitor “Current” loans with >14% DTI and >15% interest — they are high-risk
+   - Monitor “Current” loans with **>14% DTI** and **>15% interest** — they are high-risk
    - Auto-generate intervention alerts, offer restructuring early
    - Offer starter loans to <2-year employees with financial education support. Building long-term relationships with first-time borrowers might reduce the churn
    - Launch campaigns for business, home improvement loans
@@ -128,8 +128,8 @@ The analysis is performed on a single table with the following columns:
   </p>
   
 1. Good Loans Dominate the Portfolio
-   - 86.2% of all loans are categorized as “Good”, meaning they were either fully paid or currently in good standing
-   - These 33.2K loans had a funded amount of $370.2M, and impressively, the bank recovered the full $435.8M (including interest)
+   - **86.2%** of all loans are categorized as “Good”, meaning they were either fully paid or currently in good standing
+   - These **33.2K** loans had a funded amount of **$370.2M**, and impressively, the bank recovered the full **$435.8M** (including interest)
    - Most of our borrowers are reliable—this builds a strong foundation for future expansion
 
 2. Bad Loans Aare low in number but significant
@@ -154,26 +154,26 @@ The analysis is performed on a single table with the following columns:
     <img src="Details.PNG" width="1000px">
   </p>
   
-   - Loan Growth is Strong: With 38.6K applications and a 13% MoM increase in funding, the bank is seeing steady growth in both demand and disbursement
-   - High Loan Performance: 86.2% of loans are performing well, indicating effective credit policies and borrower reliability
-   - Risk Linked to High DTI & Interest Rates: Charged-off loans show higher interest (13.88%) and DTI (14%), signaling a clear link between these factors and default risk
-   - Debt Consolidation Dominates: Over 50% of the total funded amount is for debt consolidation, suggesting financial stress among borrowers
-   - Long-Term & Mortgage-Backed Borrowers Preferred: Most funding goes to 60-month loans and mortgage holders, showing a focus on lower-risk, asset-backed lending
+   - Loan Growth is Strong: With **38.6K** applications and a 13% MoM increase in funding, the bank is seeing steady growth in both demand and disbursement
+   - High Loan Performance: **86.2%** of loans are performing well, indicating effective credit policies and borrower reliability
+   - Risk Linked to High DTI & Interest Rates: Charged-off loans show higher interest (**13.88%**) and DTI (**14%**), signaling a clear link between these factors and default risk
+   - Debt Consolidation Dominates: Over **50%** of the total funded amount is for debt consolidation, suggesting financial stress among borrowers
+   - Long-Term & Mortgage-Backed Borrowers Preferred: Most funding goes to **60-month** loans and mortgage holders, showing a focus on lower-risk, asset-backed lending
 
 ## Business Recommendation
 
    - Expand offerings for borrowers with lower DTI and stable income—they consistently repay well
    - Use incentives like lower interest rates or loyalty bonuses to attract more of this group
-   - Set stricter thresholds on DTI (e.g., <13.5%) and cap interest rates for first-time or unknown borrowers
-   - Analyze why these 5.3K loans failed—are they tied to certain regions, purposes, or professions
+   - Set stricter thresholds on DTI (e.g., **<13.5%**) and cap interest rates for first-time or unknown borrowers
+   - Analyze why these **5.3K** loans failed—are they tied to certain regions, purposes, or professions
    - Build early-warning systems based on interest, DTI, and behavior patterns to intervene before charge-off
    - With consistent MoM growth, leverage marketing campaigns and special offers in high-performing months
    - Since many are consolidating debt, offer debt management tools, personal finance coaching, or budgeting apps as value-added services.Build trust and increase repayment rates long-term
 
 ## 📌 Conclusion
 
-The loan analysis reveals a strong and growing loan portfolio, with 38.6K applications and a 13% month-over-month increase in funding, indicating rising borrower demand and effective disbursement strategies. A significant 86.2% of loans are performing well, showing that the bank has a stable and reliable customer base. However, the 13.8% of charged-off loans, often linked to higher interest rates and DTI ratios, highlight areas of potential risk that need attention.
+The loan analysis reveals a strong and growing loan portfolio, with **38.6K** applications and a **13%** month-over-month increase in funding, indicating rising borrower demand and effective disbursement strategies. A significant **86.2%** of loans are performing well, showing that the bank has a stable and reliable customer base. However, the **13.8%** of charged-off loans, often linked to higher interest rates and DTI ratios, highlight areas of potential risk that need attention.
 
-The analysis also shows that debt consolidation is the leading loan purpose, suggesting that many borrowers are focused on managing existing financial burdens rather than taking loans for investment or asset-building. Borrowers with long employment history and mortgage backing received the highest funding, indicating the bank’s preference for low-risk, stable profiles. Lastly, the preference for longer-term loans (60 months) points to borrowers’ desire for manageable monthly repayments, but this may also increase the long-term credit risk if not closely monitored.
+The analysis also shows that debt consolidation is the leading loan purpose, suggesting that many borrowers are focused on managing existing financial burdens rather than taking loans for investment or asset-building. Borrowers with long employment history and mortgage backing received the highest funding, indicating the bank’s preference for low-risk, stable profiles. Lastly, the preference for longer-term loans **(60 months)** points to borrowers’ desire for manageable monthly repayments, but this may also increase the long-term credit risk if not closely monitored.
 
 In summary, while the bank is in a strong position with high recovery and repayment rates, strategic focus on risk mitigation, borrower education, and product diversification will be essential for sustainable growth.

@@ -68,9 +68,9 @@ The dashboard analyzes the following key dimensions:
     | May   | \$157K      | 33,527       | 48,233         | ▲ +31.8%       |
     | Jun   | \$166K      | 35,352       | 50,942         | ▲ +6.2%        |
 
-   -  Highest Revenue: June ($166K)
-   -  Strongest Growth Spike: March to May (March: $99K → May: $157K, ~58.6% growth in 2 months)
-   -  Lowest Revenue: February ($76K), with a drop of 6.8% from January
+   -  Highest Revenue: **June ($166K)**
+   -  Strongest Growth Spike: March to May **(March: $99K → May: $157K, ~58.6% growth in 2 months)**
+   -  Lowest Revenue: February **($76K)**, with a drop of **6.8%** from January
 
 2. Sales by Product Category
    
@@ -82,7 +82,7 @@ The dashboard analyzes the following key dimensions:
     | **Bakery**             | \$9.54K → \$19.25K (▲102%)  | Scones (\$3.58K → \$8.55K)             |
     | **Coffee Beans**       | \$5.25K → \$9.91K (▲88.8%)  | Organic Brewed Coffee                  |
 
-   - Coffee and Tea remain the core drivers, contributing ~67% of total sales
+   - Coffee and Tea remain the core drivers, contributing **~67%** of total sales
    - Consistent growth across all categories shows strong product portfolio performance
 
 3. Sales by Hour and Day
@@ -92,8 +92,8 @@ The dashboard analyzes the following key dimensions:
     | **8 AM–11 AM** | Contributes >55% of daily sales | **Friday & Saturday** |
     | **6 PM–8 PM**  | Moderate performance spike      | Sunday                |
 
-   - Morning time (8–11 AM) remains the prime sales window
-   - Friday consistently records peak revenue (~$28K in June), ideal for promotions or launches
+   - Morning time **(8–11 AM)** remains the prime sales window
+   - **Friday** consistently records peak revenue (~$28K in June), ideal for promotions or launches
 
 4. Sales by Store Location
 
@@ -103,7 +103,7 @@ The dashboard analyzes the following key dimensions:
     | Astoria         | \$27.31K → \$55.08K | ▲101%       |
     | Lower Manhattan | \$26.54K → \$54.45K | ▲105%       |
 
-   - Even growth across locations (~100%+), suggests well-distributed marketing and performance
+   - Even growth across locations **(~100%+)**, suggests well-distributed marketing and performance
    - Hell’s Kitchen slightly leads others – potential site for product testing or loyalty program pilots
 
 5. Trends in Monthly Revenue & Avg Daily Sales
@@ -121,18 +121,18 @@ The dashboard analyzes the following key dimensions:
    - April onward saw a significant rise, possibly due to seasonal demand or promotions
 
 ## Key Insights
-   - **Revenue Growth**: Total monthly revenue increased from $76K in February to $166K in June — a 118% growth, indicating strong customer engagement and effective sales strategies
-   - **Top Products Drive Profit**: Products like Barista Espresso, Brewed Chai Tea, and Hot Chocolate consistently ranked highest in sales, making them ideal candidates for seasonal promotions or bundle offers
-   - **Morning is Prime Time**: Over 55% of daily sales occur between 8 AM and 11 AM, suggesting this window should be targeted for promotions, loyalty stamps, or "coffee rush" deals
+   - **Revenue Growth**: Total monthly revenue increased from **$76K** in February to **$166K** in **June** — a **118%** growth, indicating strong customer engagement and effective sales strategies
+   - **Top Products Drive Profit**: Products like **Barista Espresso**, **Brewed Chai Tea**, and **Hot Chocolate** consistently ranked highest in sales, making them ideal candidates for seasonal promotions or bundle offers
+   - **Morning is Prime Time**: Over **55%** of daily sales occur between **8 AM and 11 AM**, suggesting this window should be targeted for promotions, loyalty stamps, or "coffee rush" deals
    - **Friday is the Busiest Day**: Weekday sales outpace weekends, and Fridays consistently drive the highest revenue, possibly due to pre-weekend routines
    - **Consistent Store Growth**: All three store locations showed strong, steady revenue increases. Hell’s Kitchen slightly outperformed the others, making it a strategic location for piloting new products or services
 
 ## Business Recommendations
 
-   - Peak hours between 8–11 AM should be targeted with: Flash offers, Breakfast combos, Loyalty coffee refills
+   - Peak hours between **8–11 AM** should be targeted with: Flash offers, Breakfast combos, Loyalty coffee refills
    - Barista Espresso, Brewed Chai Tea, and Hot Chocolate lead revenue growth. They can be bundled with bakery items
    - Promote larger size options for these
-   - Weekday sales (~75%) dominate weekends
+   - Weekday sales **(~75%)** dominate weekends
    - Launch  exclusive combo deals like “Workday Warrior” to increase sale of bestselling items
    - Office subscription programs or loyalty apps
    - Target Hell’s Kitchen for Pilots, being the highest performer consistently, it’s best for: Piloting new items, hosting special events or sampling activities
@@ -142,7 +142,7 @@ The dashboard analyzes the following key dimensions:
 
 ## 📌 Conclusion
 
-The Coffee Shop Sales Analysis from January to June 2023 shows a strong upward trend, with sales increasing by over 118% from ₹76K in February to ₹166K in June. The most active sales hours are between 8–11 AM, and Fridays and Saturdays consistently drive the highest revenue. Hell’s Kitchen emerged as the top-performing store, while coffee remained the best-selling product category, led by items like Barista Espresso and Brewed Chai Tea. Steady month-over-month growth suggests successful marketing and customer engagement strategies. Targeting high-demand time slots, optimizing store operations, and leveraging popular products for promotions could further boost revenue.
+The Coffee Shop Sales Analysis from January to June 2023 shows a strong upward trend, with sales increasing by over 118% from $76K in February to **₹166K** in **June**. The most active sales hours are between **8–11 AM**, and **Fridays** and **Saturdays** consistently drive the highest revenue. Hell’s Kitchen emerged as the top-performing store, while coffee remained the best-selling product category, led by items like **Barista Espresso** and **Brewed Chai Tea**. Steady month-over-month growth suggests successful marketing and customer engagement strategies. Targeting high-demand time slots, optimizing store operations, and leveraging popular products for promotions could further boost revenue.
 
 
 

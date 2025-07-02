@@ -3,6 +3,9 @@
   <img src="Poster.PNG" width="1000px">
 </p>
 
+## Business Problem
+The coffee shop chain is collecting valuable transactional data but lacks a centralized, visual framework to derive insights from it. Stakeholders are unable to clearly track sales trends, identify top-performing products, or understand customer purchasing behavior across time and locations. This gap limits their ability to make informed decisions around inventory, staffing, and marketing. There is a critical need to transform this raw data into actionable insights through a dynamic Power BI dashboard that supports strategic and operational decision-making.
+
 ## 📊 Overview
 
 In today’s competitive food and beverage industry, data-driven decision-making is not just a nice-to-have — it’s essential. This Power BI project focuses on analyzing six months of sales data (January to June) from a multi-location coffee shop chain. The goal was to uncover trends, highlight opportunities, and help business stakeholders make smarter, faster, and more informed decisions.

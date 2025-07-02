@@ -3,11 +3,12 @@
   <img src="Poster.jpg" width="900px">
 </p>
 
-## Business Problem
-The bank faced rising default rates and inconsistent portfolio performance across different borrower profiles, time periods, and geographies. This project aimed to analyze historical loan data to identify high-risk patterns, optimize credit risk assessment, and uncover growth opportunities by evaluating repayment behavior, seasonal trends, and state-wise performance.
+## 📊 Business Problem
+The bank faced rising default rates and inconsistent portfolio performance across different borrower profiles, time periods, and geographies. They need to optimize their loan offerings and improve customer segmentation to maximize profitability while minimizing risk. They have observed varying loan application behaviors across different borrower profiles based on factors such as homeownership status, employment tenure, loan purpose, loan term, and geographical region. The goal is to refine our loan products, tailor them to the specific needs of different segments, and ensure that we mitigate risks effectively.
 
-## 📊 Project Overview
-This loan analysis project provides a comprehensive review of loan application trends, funding distribution, borrower profiles, and repayment performance. With over 38.6K applications and $435.8M in funded loans, the report highlights a strong 13% month-over-month growth in disbursement. Key metrics such as interest rates (12.05%) and DTI (13.33%) were evaluated alongside borrower characteristics like employment length and home ownership. Most loans were taken for debt consolidation, while 60-month terms were the most popular. The analysis also compares good vs. bad loans, revealing an 86.2% repayment success rate. Insights from this data support better risk management, customer targeting, and strategic loan offerings.
+This loan analysis project provides a comprehensive review of loan application trends, funding distribution, borrower profiles, and repayment performance. With over 38.6K applications and $435.8M in funded loans, the report highlights a strong 13% month-over-month growth in disbursement. 
+
+The goal is to refine their loan products, tailor them to specific customer needs, and mitigate risks effectively. The Power BI dashboard is prepared to analyze loan portfolio data and provide insights on which loan terms and purposes resonate most with different segments, how to personalize offerings based on homeownership and employment tenure, and identify high-potential regions for targeted marketing.
 
 ## Dataset Used
 

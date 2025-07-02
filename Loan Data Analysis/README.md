@@ -6,8 +6,7 @@
 ## 📊 Business Problem
 The bank faced rising default rates and inconsistent portfolio performance across different borrower profiles, time periods, and geographies. They need to optimize their loan offerings and improve customer segmentation to maximize profitability while minimizing risk. They have observed varying loan application behaviors across different borrower profiles based on factors such as homeownership status, employment tenure, loan purpose, loan term, and geographical region. The goal is to refine our loan products, tailor them to the specific needs of different segments, and ensure that we mitigate risks effectively.
 
-This loan analysis project provides a comprehensive review of loan application trends, funding distribution, borrower profiles, and repayment performance. With over 38.6K applications and $435.8M in funded loans, the report highlights a strong 13% month-over-month growth in disbursement. 
-
+This loan analysis project provides a comprehensive review of loan application trends, funding distribution, borrower profiles, and repayment performance. 
 The goal is to refine their loan products, tailor them to specific customer needs, and mitigate risks effectively. The Power BI dashboard is prepared to analyze loan portfolio data and provide insights on which loan terms and purposes resonate most with different segments, how to personalize offerings based on homeownership and employment tenure, and identify high-potential regions for targeted marketing.
 
 ## Dataset Used

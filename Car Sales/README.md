@@ -3,9 +3,11 @@
   <img src="Poster.PNG" width="1100px">
 </p>
 
-## 📊 Overview
+## 📊 Business Problem
 
-The objective of this project is to design and implement a comprehensive business intelligence dashboard using Power BI to monitor, analyze, and derive insights from car sales data. This dashboard is intended to serve as a decision-support system for automotive dealership executives, sales managers, and operational teams by providing a real-time, visual representation of key sales metrics and patterns.
+The car sales industry faces challenges in optimizing inventory management, marketing strategies, and sales performance, which are critical for sustaining long-term growth. Despite experiencing an overall increase in both the total sales volume and average price per vehicle, dealerships are encountering several performance bottlenecks that require immediate attention. These include fluctuating sales trends, regional disparities, and underperforming vehicle brands. Additionally, while certain body styles and colors are performing better than others, the dealerships are not aligning their stock with consumer preferences effectively.
+
+To address these challenges, the goal is to develop a data-driven strategy that optimizes inventory allocation, refines regional sales efforts, boosts underperforming brands, and better aligns marketing strategies with customer preferences.This dashboard is intended to serve as a decision-support system for automotive dealership executives, sales managers, and operational teams by providing a real-time, visual representation of key sales metrics and patterns.
 
 ## Dataset Used
 
@@ -72,16 +74,17 @@ The dashboard analyzes the following key dimensions:
   Volume-led revenue growth suggests expansion into lower-priced or mid-tier vehicles is working. Margin management might be a concern due to lower average price.
 
   2. YTD Sales ($) by Week 
-     - Consistent weekly growth with a peak at week 35 (~$14.9M)
+     - Consistent weekly growth with a peak at week **35** (~$14.9M)
      - Likely a successful seasonal campaign (e.g., summer sales or new model release)
 
   3. Customer Behavior & Product Insights
-     - SUVs and Sedans dominate the market share, aligning with broader industry trends that favor versatility, safety, and space
-     - Pale White and Black are the most purchased colors, reflecting a preference for resale-friendly, conservative choices. Less demand for bold colors like Red confirms a general shift toward functionality over flair
+     - **SUVs and Sedans** dominate the market share, aligning with broader industry trends that favor versatility, safety, and space
+     - **Pale White and Black** are the most purchased colors, reflecting a preference for resale-friendly, conservative choices. Less demand for bold colors like Red confirms a general shift toward functionality over flair
+     
      These patterns help in forecasting demand, streamlining inventory, and designing targeted marketing campaigns that match actual customer buying behavior.
 
   4. Geographic & Dealer Performance Analysis
-     -  Cities like Austin, Greenville, and Janesville consistently outperform, likely due to strong dealer presence, local demand, or brand trust
+     -  Cities like **Austin, Greenville, and Janesville** consistently outperform, likely due to strong dealer presence, local demand, or brand trust
      -  Other regions (e.g., Pasco, Aurora, Scottsdale) show subdued performance, signaling operational bottlenecks, poor customer engagement, or limited product variety
        
   5. Company-wise Sales Trend
@@ -91,12 +94,12 @@ The dashboard analyzes the following key dimensions:
       | **Toyota**                           | \$29,515         | 593            | \$1.75M   | 4.72%      |
       | **Volvo**                            | \$27,913         | 458            | \$1.27M   | 3.44%      |
 
-     - Volkswagen, Toyota, and Volvo lead in both units sold and YTD revenue
-     - Luxury brands such as Porsche, Saab, and Cadillac, while lower in volume, still present margin-boosting opportunities
+     - **Volkswagen, Toyota, and Volvo** lead in both units sold and YTD revenue
+     - Luxury brands such as **Porsche, Saab, and Cadillac**, while lower in volume, still present margin-boosting opportunities
 
 ## Key Insights
-  - The business recorded a total YTD sales value of $371M, up $70.8M (+23.59%) from the previous period
-  - 13,000+ units sold, an increase of 24.57%, while the average selling price dipped slightly to $28K (-0.79%)
+  - The business recorded a total YTD sales value of **$371M**, up **$70.8M (+23.59%)** from the previous period
+  - 13,000+ units sold, an increase of **24.57%**, while the average selling price dipped slightly to **$28K (-0.79%)**
   - This implies that growth is driven primarily by volume, not price — indicating strong demand for mid-range or economy vehicles
   - Regional and brand-level analysis uncovers critical insights into demand concentration and customer preferences
 
